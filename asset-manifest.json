@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9e2e93a.css",
+    "main.js": "/static/js/main.51d8cea3.js",
+    "static/js/787.281cf2ac.chunk.js": "/static/js/787.281cf2ac.chunk.js",
+    "static/media/jgfk2q.jpg": "/static/media/jgfk2q.785546f077b7387a735f.jpg",
+    "index.html": "/index.html",
+    "static/media/grassotechItLogo.svg": "/static/media/grassotechItLogo.10621982ac0204a19af6bc5860f53dc9.svg",
+    "main.e9e2e93a.css.map": "/static/css/main.e9e2e93a.css.map",
+    "main.51d8cea3.js.map": "/static/js/main.51d8cea3.js.map",
+    "787.281cf2ac.chunk.js.map": "/static/js/787.281cf2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e2e93a.css",
+    "static/js/main.51d8cea3.js"
+  ]
+}
